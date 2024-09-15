@@ -1,0 +1,45 @@
+vim.g.mapleader = " "
+
+-- NeoTree
+vim.keymap.set('n', '<leader>p', ':Neotree<CR>')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
